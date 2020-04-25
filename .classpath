@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/common-lang3.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/javacsv.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/opencsv-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/org.json.jar"/>
+	<classpathentry kind="lib" path="D:/Jar and Java files/Jar Files/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
